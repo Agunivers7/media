@@ -18,6 +18,7 @@ teletips=Client(
 async def start(client, message):
     text = f"""
 Heya {message.from_user.mention},
+Created and powered by @Apex_legends_AG
 I am here to generate Telegraph links for your media files.
 
 Simply send a valid media file directly to this chat.
