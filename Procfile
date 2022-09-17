@@ -1,2 +1,2 @@
-worker: python3 media
+worker: python3 mediatotelegraphlink.py
 
